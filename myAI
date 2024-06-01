@@ -2,8 +2,10 @@
 # 数量：15条
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,gpt
+DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,copilot
 DOMAIN-KEYWORD,auth0
+DOMAIN-KEYWORD,auth
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
